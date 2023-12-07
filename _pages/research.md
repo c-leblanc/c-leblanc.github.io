@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Ongoing Research Projects
--------
+------
 
 - "Designing Subsidy Contracts for Renewables: An Incentive-Risk trade-off" ([WP](http://c-leblanc.github.io/files/Contract_Design_Renewables_202309.pdf))
 

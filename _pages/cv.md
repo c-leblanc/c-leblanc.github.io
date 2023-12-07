@@ -12,6 +12,8 @@ redirect_from:
 Education
 ------
 * Ph.D. in Economics, Ecole Nationale des Ponts et Chaussées -- CIRED, 2023
+  * Thesis title: "Microeconomic Analysis of Subsidy Mechanisms for Electricity Generation from Wind and Solar sources"
+  * Supervisor: Laurent LAMY (ENPC, CIRED), Philippe QUIRION (CNRS, CIRED)
 * M.Sc in Economics of Environment, Energy and Transport, Université Paris Saclay, 2016
 * ENSAE: Engineering Degree in Statistics and Economics, 2015
 
@@ -19,7 +21,7 @@ Work experience
 ------
 * 2023 - Ongoing: Post-Doctoral Researcher
   * Universidad Carlos III de Madrid, EnergyEcoLab
-  * Supervisor: Professor Natalia Fabra
+  * with Professor Natalia Fabra
 
 * 2016 - 2019: Consultant in Economics and Environment
   * I Care & Consult (Paris)
