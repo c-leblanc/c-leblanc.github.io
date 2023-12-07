@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D. in Economics, Ecole Nationale des Ponts et Chaussées -- CIRED, 2023
 * M.Sc in Economics of Environment, Energy and Transport, Université Paris Saclay, 2016
 * ENSAE: Engineering Degree in Statistics and Economics, 2015
 
 Work experience
-======
+------
 * 2023 - Ongoing: Post-Doctoral Researcher
   * Universidad Carlos III de Madrid, EnergyEcoLab
   * Supervisor: Professor Natalia Fabra
