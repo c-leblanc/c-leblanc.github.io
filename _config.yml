@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clément Leblanc"
 title_separator          : "-"
 name                     : &name "Leblanc"
-description              : &description "Post-doctoral Researcher in Energy Economics at the UC3M, EnergyEcoLab".
+description              : &description "Post-doctoral Researcher in Energy Economics at the UC3M, EnergyEcoLab"
 url                      : https://c-leblanc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "c-leblanc/c-leblanc.github.io"
