@@ -13,7 +13,7 @@ Education
 ------
 * Ph.D. in Economics, Ecole Nationale des Ponts et Chaussées -- CIRED, 2023
   * Thesis title: "Microeconomic Analysis of Subsidy Mechanisms for Electricity Generation from Wind and Solar sources"
-  * Supervisor: Laurent LAMY (ENPC, CIRED), Philippe QUIRION (CNRS, CIRED)
+  * Supervisor: Laurent LAMY (ENPC, CIRED), Co-Supervisor: Philippe QUIRION (CNRS, CIRED)
 * M.Sc in Economics of Environment, Energy and Transport, Université Paris Saclay, 2016
 * ENSAE: Engineering Degree in Statistics and Economics, 2015
 
