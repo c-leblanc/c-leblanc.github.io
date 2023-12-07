@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Clément Leblanc"
+title                    : "Clement Leblanc"
 title_separator          : "-"
 name                     : &name "Leblanc"
 description              : &description "I am a Post-doctoral Researcher in Energy Economics at the UC3M, part of the EnergyEcoLab. My research focuses on electricity production, consumption and markets. My PhD thesis, which I defended in June 2023, is entitled "Microeconomic Analysis of Subsidy Mechanisms for Power Generation from Wind and Solar sources".
