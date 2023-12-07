@@ -11,22 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, Ecole Nationale des Ponts et Chaussées -- CIRED, 2023
+* M.Sc in Economics of Environment, Energy and Transport, Université Paris Saclay, 2016
+* ENSAE: Engineering Degree in Statistics and Economics, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023 - Ongoing: Post-Doctoral Researcher
+  * Universidad Carlos III de Madrid, EnergyEcoLab
+  * Supervisor: Professor Natalia Fabra
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016 - 2019: Consultant in Economics and Environment
+  * I Care & Consult (Paris)
+  * Studies for public and private organizations at the intersection of environment and economics, including:
+    * Proposal and evaluation of public policy measures for CO2 emissions mitigation
+    * Assessing the economic benefits of reintroducing endangered species through choice experiments ([Report in French](https://www.ecologie.gouv.fr/sites/default/files/Efese%20-%20Recommandations%20%C3%A0%20partir%20du%20cas%20de%20la%20r%C3%A9introduction%20des%20vautours.pdf))
+    * Survey of macro-economic modeling tools suitable for assessing circular economy policy measures ([Report in French](https://librairie.ademe.fr/dechets-economie-circulaire/817-modelisation-macroeconomique-appliquee-a-l-economie-circulaire.html))
+
 Skills
 ======
 * Skill 1
@@ -41,19 +42,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
