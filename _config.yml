@@ -4,13 +4,13 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 # Site Settings
 locale                   : "en-US"
-title                    : "Clement Leblanc"
+title                    : "Clément Leblanc"
 title_separator          : "-"
 name                     : &name "Leblanc"
-description              : &description "I am a Post-doctoral Researcher in Energy Economics at the UC3M, part of the EnergyEcoLab. My research focuses on electricity production, consumption and markets. My PhD thesis, which I defended in June 2023, is entitled "Microeconomic Analysis of Subsidy Mechanisms for Power Generation from Wind and Solar sources".
+description              : &description "Post-doctoral Researcher in Energy Economics at the UC3M, EnergyEcoLab".
 url                      : https://c-leblanc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "c-leblanc.github.io"
