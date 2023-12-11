@@ -13,3 +13,8 @@ Ongoing Research Projects
 - "Pitfalls of Insuring Production Risk", joint work with Laurent Lamy ([WP](http://c-leblanc.github.io/files/Contract_Design_Renewables_202309.pdf))
 
 - Distributional impacts of the 2021-2023 electricity crisis and policy responses in Spain, joint work with Natalia Fabra
+
+- "Comparing the social benefits from variable renewable energy projects"
+
+- "Renewable electricity support in Europe: the trade-off between risk and incentives under sliding
+premium schemes", joint work with Laurent Lamy
