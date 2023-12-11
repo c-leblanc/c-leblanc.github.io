@@ -8,7 +8,7 @@ author_profile: true
 Ongoing Research Projects
 ------
 
-- "Designing Subsidy Contracts for Renewables: An Incentive-Risk trade-off" ([WP](http://c-leblanc.github.io/files/Contract_Design_Renewables_202309.pdf))
+- "Designing Subsidy Contracts for Renewables: An Incentive-Risk trade-off" ([WP](http://c-leblanc.github.io/files/Contract_Design_Renewables_202309.pdf), [slides](http://c-leblanc.github.io/files/Contract_Design_Renewables_slides_202310.pdf))
 
 - "Pitfalls of Insuring Production Risk", joint work with Laurent Lamy ([WP](http://c-leblanc.github.io/files/Contract_Design_Renewables_202309.pdf))
 
