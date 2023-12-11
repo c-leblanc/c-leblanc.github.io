@@ -34,16 +34,16 @@ Conferences & Workshops
 ------
 * 2023
   * 11th Mannheim Conference on Energy and the Environment (ZEW, Mannheim), May 8-9
-  * European Economic Association (EEA) annual conference (Barcelona School of Economics), August 28 - September 1
-  * TSE Energy Workshop (Toulouse School of Economics), October 10-11
+  * European Economic Association (EEA) annual conference (Barcelona School of Economics), Aug. 28 - Sep. 1
+  * TSE Energy Workshop (Toulouse School of Economics), Oct. 10-11
   * French Economic Association (AFSE) annual conference (Sciences Po, Paris), June 14-16
-  * French Association of Environmental and Resources Economics (FAERE) annual conference (CEE-M, Montpellier), September 7-8
+  * French Association of Environmental and Resources Economics (FAERE) annual conference (CEE-M, Montpellier), Sep. 7-8
 
 * 2022
-  * Third Society for Benefit-Cost Analysis: European Conference (Paris School of Economics), November 3-4
-  * French Association of Environmental and Resources Economics (FAERE) annual conference (LERN, Rouen), September 8-9
+  * Third Society for Benefit-Cost Analysis: European Conference (Paris School of Economics), Nov. 3-4
+  * French Association of Environmental and Resources Economics (FAERE) annual conference (LERN, Rouen), Sep. 8-9
 
 * 2021
-  * European Economic Association (EEA) annual conference (online), August 23-27
+  * European Economic Association (EEA) annual conference (online), Aug. 23-27
   * European Association of Environmental and Resources Economics (EAERE) annual conference (online), June 23-25
   * International Association of Energy Economics (IAEE) annual conference (online), June 7-9
