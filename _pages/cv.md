@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[*Download my résumé*](http://c-leblanc.github.io/files/CV_Leblanc_202312.pdf)
 
 Education
 ------
