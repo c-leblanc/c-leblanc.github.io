@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z7QB0ZV44P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z7QB0ZV44P');
+</script>
 
 [*Download*](http://c-leblanc.github.io/files/CV_Leblanc_202312.pdf)
 
