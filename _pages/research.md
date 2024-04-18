@@ -19,7 +19,7 @@ Ongoing Research Projects
 
 - "Renewables and Electricity Spot Prices: An incentive-risk trade-off for contract design" ([WP](http://c-leblanc.github.io/files/Contract_Design_Renewables_202312.pdf), [slides](http://c-leblanc.github.io/files/Contract_Design_Renewables_slides_202310.pdf))
 
-- "Pitfalls of Insuring Production Risk", joint work with Laurent Lamy ([WP](http://c-leblanc.github.io/files/Contract_Design_Renewables_202309.pdf))
+- "Robust Production Insuring Procurement and their Pitfalls", joint work with Laurent Lamy ([WP](http://c-leblanc.github.io/files/Robust_Production_Insuring_20180418.pdf))
 
 - Distributional impacts of the 2021-2023 electricity crisis and policy responses in Spain, joint work with Natalia Fabra
 
