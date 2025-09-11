@@ -16,7 +16,7 @@ redirect_from:
   gtag('config', 'G-Z7QB0ZV44P');
 </script>
 
-[*Download*](http://c-leblanc.github.io/files/CV_Leblanc_202312.pdf)
+[*Download*](http://c-leblanc.github.io/files/CV_English_202509.pdf)
 
 Education
 ------
