@@ -39,8 +39,15 @@ Work experience
     * Survey of macro-economic modeling tools suitable for assessing circular economy policy measures ([Report in French](https://librairie.ademe.fr/dechets-economie-circulaire/817-modelisation-macroeconomique-appliquee-a-l-economie-circulaire.html))
 
 
-Conferences & Workshops
+Talks
 ------
+* 2025
+  * 2nd IO MadBar Workshop (CEMFI, Madrid), May 21
+  * UC3M Micro Retreat (Madrid), June 2-3
+    
+* 2024
+  * 12th Mannheim Conference on Energy and the Environment (ZEW, Mannheim), May 13
+  
 * 2023
   * 11th Mannheim Conference on Energy and the Environment (ZEW, Mannheim), May 8-9
   * European Economic Association (EEA) annual conference (Barcelona School of Economics), Aug. 28 - Sep. 1
