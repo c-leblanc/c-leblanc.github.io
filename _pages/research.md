@@ -14,6 +14,14 @@ author_profile: true
   gtag('config', 'G-Z7QB0ZV44P');
 </script>
 
+
+Working Papers
+------
+
+- **"Unpacking the Distributional Implications of the Energy Crisis: Lessons from the Iberian Electricity Market"**, joint work with Natalia Fabra and Mateus Souza
+
+  > <font size="3"> The 2021-2023 European energy crisis, triggered by the war in Ukraine, led to broad policy interventions in energy markets. In contrast to the retail-side measures and public transfers implemented elsewhere, Spain and Portugal targeted the wholesale electricity market through the so-called Iberian solution. We quantify the distributional implications of the crisis and this market intervention on Spanish electricity firms and across consumer groups. We find that the crisis shifted substantial wealth from consumers to generators, with regressive impacts among consumers. Conversely, the policy’s relief was progressive, delivering larger gains to lower-income groups. </font>
+
 Ongoing Research Projects
 ------
 
@@ -25,9 +33,7 @@ Ongoing Research Projects
 
   > <font size="3"> In a procurement setting involving both moral hazard and ex post risk where the contracting rule depends on realized production, we formalize a concept of robust insurance provision which reduces risk premiums with a prior-free approach. This leads us to analyze procurement where the auction-determined contract depends not only on the contractor’s bid but also on a declaration on his expected production. For any given menu of linear contracts, we characterize the corresponding production-insuring menus and establish a general incentive to overstate expected production. We then analyse the pitfalls associated with false declarations in the lowest-price auction while putting aside moral hazard. We illustrate our analysis through simulations calibrated on a few offshore wind power auctions in France. </font>
 
-- **"Unpacking the Distributional Implications of the Energy Crisis: Lessons from the Spanish Electricity Market"**, joint work with Natalia Fabra and Mateus Souza
 
-  > <font size="3"> The surge in gas prices triggered by the war in Ukraine led to an unprecedented increase in electricity wholesale prices, which passed through to electricity retail prices. Regulatory interventions in wholesale and retail markets partly mitigated the impacts on consumers. In the context of the Spanish electricity market, this paper quantifies the distributional implications of the energy crisis and the subsequent market interventions, disentangling the distributional effects between consumers and electricity companies and across consumer groups. </font>
 
 - "Comparing the social benefits from variable renewable energy projects"
 
