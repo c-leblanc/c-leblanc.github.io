@@ -18,7 +18,7 @@ author_profile: true
 Working Papers
 ------
 
-- **[Unpacking the Distributional Implications of the Energy Crisis: Lessons from the Iberian Electricity Market](http://c-leblanc.github.io/files/Fabra_Leblanc_Souza_2025_WP.pdf)**, joint work with Natalia Fabra and Mateus Souza ([CEPR Discussion Paper](https://cepr.org/publications/dp20593))
+- **[Unpacking the Distributional Implications of the Energy Crisis: Lessons from the Iberian Electricity Market](http://c-leblanc.github.io/files/Fabra_Leblanc_Souza_202508_WP.pdf)**, joint work with Natalia Fabra and Mateus Souza ([CEPR Discussion Paper](https://cepr.org/publications/dp20593))
 
   > <font size="3"> The 2021-2023 European energy crisis, triggered by the war in Ukraine, led to broad policy interventions in energy markets. In contrast to the retail-side measures and public transfers implemented elsewhere, Spain and Portugal targeted the wholesale electricity market through the so-called Iberian solution. We quantify the distributional implications of the crisis and this market intervention on Spanish electricity firms and across consumer groups. We find that the crisis shifted substantial wealth from consumers to generators, with regressive impacts among consumers. Conversely, the policy’s relief was progressive, delivering larger gains to lower-income groups.</font>
 
