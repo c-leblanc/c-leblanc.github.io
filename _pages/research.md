@@ -28,7 +28,7 @@ Working Papers
 Ongoing Research Projects
 ------
 
-- **"Robust Risk-Sharing Contracts with Costly Signaling"**, joint work with Laurent Lamy ([Slides](http://c-leblanc.github.io/files/Robust_RiskSharing_202506.pdf))
+- **"Robust Risk-Sharing Contracts with Costly Signaling"**, joint work with Laurent Lamy ([Slides](http://c-leblanc.github.io/files/Robust_RiskSharing_202506_Slides.pdf))
 
   > <font size="3"> We consider a principal-agent model under moral hazard with a risk-neutral principal and a possibly risk-averse agent. We analyze contracts where transfers are contingent on the realized production and also on a state-dependent costly signal about the expectation of the output distribution chosen secretly by the agent. We characterize the set of contracts whose equilibrium outcome Pareto-dominates the outcome of a residual claimant contract in a robust manner, i.e. for any possible realization of the agent’s characteristics: we establish that such robust risk-sharing contracts are menus of equity contracts, with a set of constraints regarding the function that maps the signal to the equity, i.e the percentage stake of output transferred to the agent. Under mild restrictions on the lower bound of the signaling costs, we characterize a unique optimal robust Pareto-improvement. </font>
 
