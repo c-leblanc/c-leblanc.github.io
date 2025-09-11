@@ -42,9 +42,9 @@ Work experience
 Talks
 ------
 * 2025
-  * 2nd IO MadBar Workshop (CEMFI, Madrid), May 21
   * UC3M Micro Retreat (Madrid), June 2-3
-    
+  * 2nd IO MadBar Workshop (CEMFI, Madrid), May 21
+ 
 * 2024
   * 12th Mannheim Conference on Energy and the Environment (ZEW, Mannheim), May 13
   
