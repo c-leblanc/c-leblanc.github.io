@@ -56,7 +56,7 @@ Non-academic
 
 - [Modélisation macroéconomique appliquée à l'économie circulaire: Etat de l'art et préconisations de développement](https://librairie.ademe.fr/industrie-et-production-durable/817-modelisation-macroeconomique-appliquee-a-l-economie-circulaire.html), with Fanny Vicard and Aurélien Saussay, ADEME (I Care & Consult, OFCE), Nov 2018
 
-- [Mesures et instruments de politiques publiques pour l’atteinte d’un scénario bas carbone](), ADEME (I Care & Consult, Energies Demain, Enerdata), Août 2017
+- [Mesures et instruments de politiques publiques pour l’atteinte d’un scénario bas carbone](http://c-leblanc.github.io/files/ADEME_2017_Mesures.pdf), ADEME (I Care & Consult, Energies Demain, Enerdata), Août 2017
 
 
 
