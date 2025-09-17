@@ -47,15 +47,11 @@ Ongoing Research Projects
 
 Non-academic
 ------
-
 - [Winners and losers from the energy crisis: Policy lessons from the Iberian electricity market](https://cepr.org/voxeu/columns/winners-and-losers-energy-crisis-policy-lessons-iberian-electricity-market), with Natalia Fabra and Mateus Souza, CEPR Vox, Sep 2025
 
 **In French**
-
 - [Les subventions aux énergies renouvelables](https://ingenius.ecoledesponts.fr/articles/les-subventions-aux-energies-renouvelables/), with Laurent Lamy, Ingenius (ENPC), Mar 2023 _(Podcast)_
-
 - [Modélisation macroéconomique appliquée à l'économie circulaire: Etat de l'art et préconisations de développement](https://librairie.ademe.fr/industrie-et-production-durable/817-modelisation-macroeconomique-appliquee-a-l-economie-circulaire.html), with Fanny Vicard and Aurélien Saussay, ADEME (I Care & Consult, OFCE), Nov 2018
-
 - [Mesures et instruments de politiques publiques pour l’atteinte d’un scénario bas carbone](http://c-leblanc.github.io/files/ADEME_2017_Mesures.pdf), ADEME (I Care & Consult, Energies Demain, Enerdata), Août 2017
 
 
